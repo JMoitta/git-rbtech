@@ -1,2 +1,3 @@
 <?php
-	// comentario
+	$GOLBAL = 12;
+	// cmentarrio
